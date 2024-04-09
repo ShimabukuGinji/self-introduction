@@ -1,0 +1,33 @@
+body{
+    background-image: url(../images/background_home.jpg);
+}
+
+.home{
+    width: 200px;
+}
+
+.main{
+    text-align: center;
+}
+
+.main img{
+    width: 200px;
+    border-radius: 400px;
+}
+
+.main a{
+    display: block;
+    font-size: 25px;
+    color: rgb(4, 255, 0);
+    font-weight: bold;
+    -webkit-text-stroke: 1px rgb(0,0,0) 
+}
+
+.main p{
+    font-size: 20px;
+}
+
+.strong{
+    font-weight: bold;
+    font-size: 30px;
+}

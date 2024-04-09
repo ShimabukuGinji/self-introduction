@@ -1,0 +1,67 @@
+body{
+    background-image: url(../images/background_profile.jpg);
+}
+
+li{
+    display: flex;
+}
+
+.flex{
+    display: flex;
+}
+
+ul .item{
+    width: 150px;
+    text-align:justify;
+    text-align-last:justify;
+    margin-right: 5px;
+}
+
+ul p{
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.profile{
+    width: 300px;
+    border-radius: 400px;
+    margin: 50px;
+    margin-left: 100px;
+}
+
+
+/* 全ページ共通 */
+.menu{
+    display: flex;
+}
+
+#home{
+    width: 200px;
+}
+
+#back{
+    font-size: 25px;
+}
+
+h1{
+    font-size: 70px;
+    margin-top: 20px;
+    margin-left: 50px;
+    margin-bottom: -20px;
+}
+.h1{
+    color: rgb(212, 255, 0);
+    -webkit-text-stroke: 1px rgb(0,0,0)
+}
+
+h2{
+    font-size: 50px;
+    margin-top: 40px;
+    margin-left: 50px;
+    margin-bottom: -20px;
+}
+.h2{
+    color: rgb(116, 116, 116);
+}
+
+

@@ -1,0 +1,78 @@
+body{
+    background-image: url(../images/background_hobby.jpg);
+}
+
+.img{
+    width: 70px;
+}
+
+.flex{
+    display: flex;
+    margin: auto;
+}
+
+.item{
+    width: 720px;
+    margin: 10px;
+}
+
+.door{
+    font-size: 35px;
+    text-align: center;
+}
+
+legend{
+    font-size: 30px;
+}
+
+fieldset{
+    border: 5px double rgb(30, 255, 0);
+    border-radius: 5px;
+}
+
+#indoor{
+    border: 5px double rgb(0, 255, 255);
+    border-radius: 5px;
+}
+
+#outdoor{
+    border: 5px double rgb(255, 145, 0);
+    border-radius: 5px;
+}
+
+/* 全ページ共通 */
+.menu{
+    display: flex;
+}
+
+#home{
+    width: 200px;
+}
+
+#back{
+    font-size: 25px;
+}
+
+h1{
+    font-size: 70px;
+    margin-top: 20px;
+    margin-left: 50px;
+    margin-bottom: -20px;
+}
+.h1{
+    color: rgb(191, 0, 255);
+    -webkit-text-stroke: 1px rgb(0,0,0)
+}
+
+h2{
+    font-size: 50px;
+    margin-top: 40px;
+    margin-left: 50px;
+    margin-bottom: -20px;
+}
+.h2{
+    color: rgb(116, 116, 116);
+}
+
+
+
